@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+<defs><radialGradient id="g" cx="82%" cy="8%" r="70%"><stop offset="0" stop-color="#ff4b3e" stop-opacity=".35"/><stop offset="1" stop-color="#090a0f" stop-opacity="0"/></radialGradient></defs>
+<rect width="1200" height="630" fill="#090a0f"/><rect width="1200" height="630" fill="url(#g)"/>
+<g font-family="Arial,Helvetica,sans-serif" fill="#fff">
+<text x="78" y="118" font-size="30" font-weight="800" letter-spacing="6">NAVKRANTI</text>
+<text x="78" y="285" font-size="88" font-weight="900">BUILD.</text>
+<text x="78" y="382" font-size="88" font-weight="900" fill="#ff754d">PARTICIPATE.</text>
+<text x="78" y="479" font-size="88" font-weight="900">CREATE.</text>
+<text x="82" y="538" font-size="25" fill="#a8afbd">YOUTH • PARTICIPATION • DEVELOPMENT</text>
+</g>
+<circle cx="1060" cy="500" r="92" fill="none" stroke="#ff4b3e" stroke-width="3" opacity=".55"/>
+</svg>

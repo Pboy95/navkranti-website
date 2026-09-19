@@ -1,0 +1,3 @@
+Custom domain: https://navkranti.in
+Canonical URL: https://navkranti.in/
+Recommended www redirect: https://www.navkranti.in -> https://navkranti.in
